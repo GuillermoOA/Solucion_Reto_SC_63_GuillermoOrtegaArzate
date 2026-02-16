@@ -1,0 +1,2 @@
+# Solucion_Reto_SC_63_GuillermoOrtegaArzate
+Solución reto aprendizaje supervisado
