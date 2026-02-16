@@ -19,3 +19,9 @@ Un banco ha lanzado **un nuevo plan de inversión** a largo plazo a través de u
   Available at: [pdf] http://hdl.handle.net/1822/14838
                 [bib] http://www3.dsi.uminho.pt/pcortez/bib/2011-esm-1.txt
   ---
+
+Archivos:
+- RetoEditable.pdf: Archivo con las instrucciones para el reto, incluyendo la respuesta de dos preguntas.
+- RetoMercadotecnia.pdf: Código fuente en formato PDF.
+- Solucion_Reto_SC_63_GuillermoOrtegaArzate.ipynb: código fuente de la solución al modelo de lenguaje supervisado.
+- bank_markting_RETO_DS_AS.csv: Datos para elaborar el modelo
